@@ -1,0 +1,11 @@
+#top-link-block.affix-top {
+    position: absolute;
+    bottom: -82px;
+    right: 25px;
+}
+
+#top-link-block.affix {
+    position: fixed;
+    bottom: 40px;
+    right: 25px;
+}

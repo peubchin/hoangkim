@@ -1,0 +1,24 @@
+<link rel='stylesheet' property='stylesheet' id='vc_google_fonts_open_sans300300italicregularitalic600600italic700700italic800800italic-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic&amp;subset=latin%2Cvietnamese&amp;ver=4.7.6' type='text/css' media='all' />
+<script type='text/javascript' src='<?php echo get_asset('style_path'); ?>wp-content/plugins/contact-form-7/includes/js/jquery.form.mind03d.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript' src='<?php echo get_asset('style_path'); ?>wp-content/plugins/contact-form-7/includes/js/scripts4906.js?ver=4.7'></script>
+<script type='text/javascript' src='<?php echo get_asset('style_path'); ?>wp-includes/js/comment-reply.minae9e.js?ver=4.7.6'></script>
+<script type='text/javascript' src='<?php echo get_asset('style_path'); ?>wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min0147.js?ver=4.12'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var js_porto_vars = {"rtl":"","ajax_url":"http:\/\/ccevents.vn\/wp-admin\/admin-ajax.php","change_logo":"1","container_width":"1140","grid_gutter_width":"20","show_sticky_header":"1","show_sticky_header_tablet":"1","show_sticky_header_mobile":"1","ajax_loader_url":"\/\/ccevents.vn\/wp-content\/themes\/porto\/images\/ajax-loader@2x.gif","category_ajax":"","prdctfltr_ajax":"","show_minicart":"0","slider_loop":"1","slider_autoplay":"1","slider_autoheight":"1","slider_speed":"5000","slider_nav":"1","slider_nav_hover":"1","slider_margin":"","slider_dots":"1","slider_animatein":"","slider_animateout":"","product_thumbs_count":"","product_zoom":"","product_zoom_mobile":"","product_image_popup":"","zoom_type":"","zoom_scroll":"","zoom_lens_size":"","zoom_lens_shape":"","zoom_contain_lens":"","zoom_lens_border":"","zoom_border_color":"","zoom_border":"","screen_lg":"1160","mfp_counter":"%curr% of %total%","mfp_img_error":"<a href=\"%url%\">The image<\/a> could not be loaded.","mfp_ajax_error":"<a href=\"%url%\">The content<\/a> could not be loaded.","popup_close":"Close","popup_prev":"Previous","popup_next":"Next","request_error":"The requested content cannot be loaded.<br\/>Please try again later."};
+	/* ]]> */
+	</script>
+<script type='text/javascript' src='<?php echo get_asset('style_path'); ?>wp-content/themes/porto/js/theme.min128b.js?ver=3.1'></script>
+<script type='text/javascript' src='<?php echo get_asset('style_path'); ?>wp-content/plugins/JPS-Ajax-Post-Layout/library/init5152.js?ver=1.0'></script>
+<script type='text/javascript' src='<?php echo get_asset('style_path'); ?>wp-content/plugins/JPS-Ajax-Post-Layout/library/slick/slick.min222a.js?ver=1.9.0.6'></script>
+<script type='text/javascript' src='<?php echo get_asset('style_path'); ?>wp-content/plugins/JPS-Ajax-Post-Layout/library/malihu/jquery.mCustomScrollbar.concat.min222a.js?ver=1.9.0.6'></script>
+<script type='text/javascript' src='<?php echo get_asset('style_path'); ?>wp-content/plugins/JPS-Ajax-Post-Layout/library/masonry/masonry.pkgd.min222a.js?ver=1.9.0.6'></script>
+<script type='text/javascript' src='<?php echo get_asset('style_path'); ?>wp-content/plugins/JPS-Ajax-Post-Layout/library/imagesloaded/imagesloaded.pkgd.min222a.js?ver=1.9.0.6'></script>
+<script type='text/javascript' src='<?php echo get_asset('style_path'); ?>wp-content/plugins/JPS-Ajax-Post-Layout/library/jquery-transit/jquery.transit.min222a.js?ver=1.9.0.6'></script>
+<script type='text/javascript' src='<?php echo get_asset('style_path'); ?>wp-content/plugins/JPS-Ajax-Post-Layout/library/TweenMax/TweenMax.min222a.js?ver=1.9.0.6'></script>
+<script type='text/javascript' src='<?php echo get_asset('style_path'); ?>wp-content/plugins/JPS-Ajax-Post-Layout/library/panr/jquery.panr.min222a.js?ver=1.9.0.6'></script>
+<script type='text/javascript' src='<?php echo get_asset('style_path'); ?>wp-content/plugins/JPS-Ajax-Post-Layout/library/jquery-cookie/jquery.cookie.min222a.js?ver=1.9.0.6'></script>
+<script type='text/javascript' src='<?php echo get_asset('style_path'); ?>wp-content/plugins/JPS-Ajax-Post-Layout/library/social-share-buttons/rrssb.min222a.js?ver=1.9.0.6'></script>
+<script type='text/javascript' src='<?php echo get_asset('style_path'); ?>wp-content/plugins/JPS-Ajax-Post-Layout/library/priority-js/priority-nav.min222a.js?ver=1.9.0.6'></script>
+<script type='text/javascript' src='<?php echo get_asset('style_path'); ?>wp-includes/js/wp-embed.minae9e.js?ver=4.7.6'></script>
+<script type='text/javascript' src='<?php echo get_asset('style_path'); ?>wp-content/plugins/JPS-Ajax-Post-Layout/library/minify/core-min222a.js?ver=1.9.0.6'></script>

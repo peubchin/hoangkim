@@ -1,0 +1,1 @@
+<?php echo isset($posts_featured) ? $posts_featured : ''; ?>

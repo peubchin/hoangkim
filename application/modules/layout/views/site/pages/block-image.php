@@ -1,0 +1,1 @@
+<img src="<?php echo (isset($banner_none['image']) && trim($banner_none['image']) != '') ? base_url(get_module_path('images') . $banner_none['image']) : (get_asset('img_path') . 'banner-ttn.jpg'); ?>" class="img-responsive">
